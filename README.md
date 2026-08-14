@@ -1,4 +1,4 @@
-# 🍕 Food Application - Scalable Microservice Architecture
+ # 🍕 Food Application - Scalable Microservice Architecture
 
 A production-ready, high-performance food delivery application built with **Java Spring Boot** microservices, designed to scale from thousands to **10 million+ users**. Features read/write splitting with MySQL replication, Redis caching with Sentinel-based failover, and Nginx load balancing.
 
